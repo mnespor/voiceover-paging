@@ -1,7 +1,6 @@
 # Voiceover paging
 
-I don't know how I expect paging view controllers to work with VoiceOver,
-but I'm getting surprising results.
+Paging collection views are doing something I don't understand with VoiceOver on.
 
 ## Steps to reproduce
 
