@@ -4,7 +4,7 @@ Paging collection views are doing something I don't understand with VoiceOver on
 
 ## Steps to reproduce
 
-1. Turn VoiceOver oni
+1. Turn VoiceOver on
 1. Launch the app
 1. Focus "some caption"
 1. Three-finger swipe to the second page
